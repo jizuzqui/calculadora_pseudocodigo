@@ -6,3 +6,12 @@ int suma (int a, int b) {
 
         return a + b;
 }
+
+/*
+* Función que resta dos números enteros
+* Params a, b
+*/
+int resta (int a, int b) {
+
+        return a - b;
+}
