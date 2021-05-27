@@ -15,3 +15,12 @@ int resta (int a, int b) {
 
         return a - b;
 }
+
+/*
+* Función que multiplica dos números enteros
+* Params a, b
+*/
+int multiplicacion (int a, int b) {
+
+        return a * b;
+}
